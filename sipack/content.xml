@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package name="последний пак" version="4" id="777ae478-c2b0-4851-a2f3-2b6df8e1e2ca" date="01.09.2023" difficulty="5" xmlns="http://vladimirkhil.com/ygpackage3.0.xsd">
+    <info>
+        <authors>
+            <author>
+                лушань
+            </author>
+        </authors>
+    </info>
+    <rounds>
+        <round name="Intro">
+            <themes>
+                <theme name="">
+                    <questions>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="voice">
+                                    @Valentin_Dyadka_-_TikTok_CHastushka_73604849.mp3
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Валентин Дядька - Тик Ток Частушки</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+    </rounds>
+</package>
